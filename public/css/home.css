@@ -38,8 +38,8 @@ h1 {
 
 .announcement {
   font-family: 'Alegreya Sans', serif;
-  font-size: 16px;
-  margin-top: 80px;
-  letter-spacing: 1px;
-  font-weight: bold;
+  font-size: 14px;
+  margin-top: 300px;
+  letter-spacing: 1.2px;
+  font-weight: 700;
 }
